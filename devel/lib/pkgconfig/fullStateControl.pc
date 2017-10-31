@@ -1,0 +1,8 @@
+prefix=/home/jacob/seaArm212/devel
+
+Name: fullStateControl
+Description: Description of fullStateControl
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jacob/seaArm212/devel/lib 
+Requires: 
